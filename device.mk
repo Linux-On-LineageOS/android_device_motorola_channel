@@ -85,3 +85,4 @@ PRODUCT_COPY_FILES += \
 $(call inherit-product, device/motorola/sdm632-common/common.mk)
 
 
+$(call inherit-product, vendor/lindroid/lindroid.mk)
